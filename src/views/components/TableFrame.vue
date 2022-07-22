@@ -19,7 +19,7 @@
                     Portfolio
                   </a>
                 </li>
-                <li class="-mb-px mr-2 last:mr-0 flex-0 text-center">
+                <!-- <li class="-mb-px mr-2 last:mr-0 flex-0 text-center">
                   <a class="text-sm text-gray-600 font-bold px-6 py-3 pl-2 block leading-normal no-underline cursor-pointer" v-on:click="toggleTabs(3)" v-bind:class="{'border-none': openTab !== 3, 'border-b-2 border-blue-500 text-blue-500': openTab === 3}">
                      <img class="inline-block h-6 w-auto" src="@/assets/images/icon-star-active.svg" alt="CoinFlask Logo" />
                     Favorites
@@ -29,7 +29,7 @@
                   <a class="text-sm text-gray-600 font-bold px-6 py-3 pl-2 block leading-normal no-underline cursor-pointer" v-on:click="toggleTabs(3)" v-bind:class="{'border-none': openTab !== 3, 'border-b-2 border-blue-500 text-blue-500': openTab === 3}">
                     NFT Gallery
                   </a>
-                </li>
+                </li> -->
               </ul>
 
 

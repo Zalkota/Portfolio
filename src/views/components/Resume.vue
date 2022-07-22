@@ -1,7 +1,7 @@
 <template>
 
     <div class="">
-        <div class="flex border border-gray-300 mt-6 mx-auto px-6 rounded-md hide">
+        <div class="flex border bg-white border-gray-300 mt-6 mx-auto px-6 rounded-md shadow-sm hide">
             <div class="flex-auto mb-4">
                 <h1 class="text-gray-900 font-bold text-xl lg:text-2xl mb-1" style="font-family: Russo One;">Download Resume PDF</h1>
                 <h2 class="text-gray-700 font-thin text-sm ">View Dominic's resume below or download it in PDF format.</h2>
