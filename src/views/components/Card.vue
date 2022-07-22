@@ -6,7 +6,7 @@
 
             <div class="text-left  px-2 sm:px-4  pt-2 sm:py-4 sm:pb-2 ">
                <h4 class="text-md text-gray-800 font-bold mb-2">{{ title }}</h4>
-               <p class="text-gray-700 text-xs font-medium">{{ description }}</p>
+               <p class="text-gray-700 text-xs font-medium">{{ truncateDescription(description) }}</p>
             </div>
 
             <div class="px-2 sm:px-4 py-2 sm:pt-2">
@@ -33,27 +33,29 @@
 
 
 export default {
-  name: 'Card',
-  props: ['id', 'title',  'description', 'imageURL', 'tags', 'githubURL'],
+    name: 'Card',
+    props: ['id', 'title',  'description', 'imageURL', 'tags', 'githubURL'],
 
-methods: {
+    methods: {
 
-      getImgUrl(imageURL) {
-        var images = require.context('@/assets/images/cards/', false, /\.jpg$/)
-        return images('./' + imageURL + ".jpg")
-    },
+        getImgUrl(imageURL) {
+            var images = require.context('@/assets/images/cards/', false, /\.jpg$/)
+            return images('./' + imageURL + ".jpg")
+        },
 
-      getLinkUrl(id){
-        return `/project/${id}`
-      },
+        getLinkUrl(id){
+            return `/project/${id}`
+        },
 
-      getImageURL(){
+        truncateDescription(payload) {
+            let maxLength = 150
+            if(payload.length >= maxLength) {
+                let trimmedString = payload.substring(0, maxLength) ;
+                trimmedString = trimmedString.substr(0, Math.min(trimmedString.length, trimmedString.lastIndexOf(" ")))
+                return trimmedString + '...'
+            } return payload
 
-        // return `/images/toadz/${this.nftTokenId}.jpg`
-
-        return `https://cosmic-caps.s3.amazonaws.com/Final_10000_caps/${this.nftTokenId}.png`
-
-      }
-  }
+        }
+    }
 }
 </script>

@@ -2,12 +2,12 @@
     {
         "id":"0",
         "title":"CoinFlask",
-        "location":"",
+        "location":"New Hudson, MI",
         "description":"CoinFlask is a rudimentary version of CoinGecko.com that provides cryptocurrency market information of the top 100 coins in real-time and preserves state.",
         "imageURL":"portfolio_coinflask_card",
         "tags": ["Javascript", "Vue.js", "Vuex", "CoinGecko API", "Tailwind", "MongoDB", "Nginx", "Cypress", "Linux"],
         "detail_pdf_array": [],
-        "githubURL": "https://github.com/Zalkota"
+        "githubURL": "https://github.com/Zalkota/CoinFlask"
     },
     {
         "id":"1",
@@ -43,7 +43,7 @@
         "id":"4",
         "title":"Gegoo, Inc.",
         "location":"Dearborn, MI",
-        "description":"Gegoo was a brand awareness and promotional web application built by my company, Mod Technologies LLC. Gegoo was a startup located in Dearborn, MI in 2020.",
+        "description":"Gegoo was a brand awareness and promotional web application built by my company, Mod Technologies LLC. Gegoo was a startup located in Dearborn, MI.",
         "imageURL":"portfolio_gegoo_card",
         "tags": ["Django", "Python", "Stripe", "PostgreSQL", "SASS", "Docker", "GeoLocation", "Bootstrap", "AWS", "Linux"],
         "detail_pdf_array": ["Gegoo_Page_1", "Gegoo_Page_2", "Gegoo_Page_3", "Gegoo_Page_4", "Gegoo_Page_5", "Gegoo_Page_6"],
@@ -55,7 +55,7 @@
         "location":"",
         "description":"Continuously queries the Ethereum blockchain for specific ERC721 contract events pertaining to specific tokens.",
         "imageURL":"portfolio_erc721_card",
-        "tags": ["Javascript", "Axios", "MongoDB", "Vue.js", "Vuex", "Ethers.js", "Tailwind", "Alchemy RPC", "Linux"],
+        "tags": ["Javascript", "Axios", "MongoDB", "Vue.js", "Vuex", "Ethers.js", "Tailwind", "Alchemy", "TypeScript", "Linux"],
         "detail_pdf_array": [],
         "githubURL": "https://github.com/Zalkota"
     }
