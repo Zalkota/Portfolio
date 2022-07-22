@@ -57,9 +57,10 @@
                                  :tags="card.tags"
                                  v-bind:detail_view_card="card.detail_pdf_array"
                                  :githubURL="card.githubURL"
+                                 :privateRepo="card.privateRepo"
                                  />
                              </template>
-
+                             
                           </div>
 
                     </div>

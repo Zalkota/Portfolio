@@ -1,7 +1,7 @@
 <template>
 
     <div class="">
-        <div class="flex flex-col md: flex-rowborder border-gray-300 mt-6 mx-auto p-6 rounded-md shadow-md bg-white mb-64">
+        <div class="flex flex-col md:flex-row border border-gray-300 mt-6 mx-auto p-6 rounded-md shadow-md bg-white mb-64">
             <div class="flex-auto md:order-1 order-2">
                 <div class="px-6">
                     <img class="block w-48 hide mt-6" src="@/assets/images/dominic_image.png" alt="Profile Image" />
