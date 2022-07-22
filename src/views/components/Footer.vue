@@ -16,9 +16,6 @@
                     <a href="https://github.com/Zalkota" target="_blank" class="text-gray-300 text-sm font-medium no-underline">Github</a>
                   </p>
                   <p class="mb-4">
-                    <a href="https://twitter.com/jukabo_NFT" target="_blank" class="text-gray-300 text-sm font-medium no-underline">Twitter</a>
-                  </p>
-                  <p class="mb-4">
                     <a href="https://t.me/Dommazzola" target="_blank" class="text-gray-300 text-sm font-medium no-underline">Telegram</a>
                   </p>
                 </div>
