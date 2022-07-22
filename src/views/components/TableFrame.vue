@@ -41,7 +41,7 @@
 
                         <div class="flex  mb-2 mx-auto py-4 ">
                             <div class="flex-1">
-                                 <h1 class="text-gray-900 font-bold text-xl lg:text-2xl mb-1" style="font-family: Russo One;">Portfolio</h1>
+                                 <h1 class="text-gray-900 font-bold text-xl lg:text-2xl mb-1" style="font-family: Russo One;">My Portfolio</h1>
                                  <h2 class="text-gray-600 font-thin text-sm ">View the latest websites, web applications, and NFTs designed and built by Dominic Mazzola.</h2>
                             </div>
                         </div>
@@ -60,7 +60,7 @@
                                  :privateRepo="card.privateRepo"
                                  />
                              </template>
-                             
+
                           </div>
 
                     </div>

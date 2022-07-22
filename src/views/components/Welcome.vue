@@ -6,7 +6,7 @@
                 <div class="px-6">
                     <img class="block w-48 hide mt-6" src="@/assets/images/dominic_image.png" alt="Profile Image" />
                 </div>
-                <div class="p-4">
+                <div class="px-6 py-2">
                     <a class="bg-blue-400 hover:bg-blue-500 hover:shadow-md text-white font-bold py-1 px-2 rounded inline-flex items-center text-white no-underline" href="https://t.me/Dommazzola" target="_blank">
                         <svg class="mr-2" width="20" height="20" viewBox="0 0 185 165" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M0 109.875V18.625C0 8.5875 8.2875 0.375 18.4167 0.375H165.75C170.634 0.375 175.319 2.29776 178.773 5.7203C182.226 9.14284 184.167 13.7848 184.167 18.625V155.5C184.141 157.286 183.588 159.025 182.574 160.502C181.561 161.98 180.132 163.129 178.465 163.81C176.799 164.49 174.967 164.67 173.198 164.328C171.429 163.987 169.8 163.138 168.513 161.888L134.258 128.125H18.4167C13.5323 128.125 8.84791 126.202 5.39412 122.78C1.94032 119.357 0 114.715 0 109.875Z" fill="white"/>
@@ -32,7 +32,6 @@
                 <div class="p-4 rounded-lg my-3 bg-blue-100 text-blue-500">
                     <p class=""><span class="italic">"Don't judge each day by the harvest you reap but by the seeds that you plant."</span> -Robert Louis Stevenson</p>
                 </div>
-                <h3 class=""></h3>
             </div>
         </div>
     </div>
