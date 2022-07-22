@@ -96,7 +96,7 @@ export default {
   components: {Card, Resume, Welcome},
   data() {
     return {
-         openTab: 1,
+         openTab: 0,
          alwaysTrue: true,
          alwaysFalse: false,
          tableData: [],

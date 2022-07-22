@@ -1,7 +1,7 @@
 <template>
 
     <div class="flex-1 w-full bg-white rounded-lg overflow-hidden flex flex-col justify-center border border-gray-400 hover:shadow-md mb-6 md:mb-0">
-        <router-link v-bind:to="getLinkUrl(id)" class=" cursor-pointer  no-underline select-none inline-block  relative"   >
+        <!-- <router-link v-bind:to="getLinkUrl(id)" class=" cursor-pointer  no-underline select-none inline-block  relative"> -->
             <img class="object-center object-cover h-auto w-full" :src="getImgUrl(imageURL)" alt=""/>
 
             <div class="text-left  px-2 sm:px-4  pt-2 sm:py-4 sm:pb-2 ">
@@ -16,7 +16,7 @@
                     </span>
                 </template>
             </div>
-            </router-link>
+            <!-- </router-link> -->
             <div class="flex p-4 py-3 bg-gray-100">
                 <div class="text-right flex-0 justify-end px-2">
                     <a v-bind:href="githubURL" target="_blank">

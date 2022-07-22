@@ -15,7 +15,7 @@
         "location":"",
         "description":"Vibers is a 10k NFT collection that encompasses the ethos of web3 by taking inspiration from a wide range of iconic NFT collections to create an entirely new and original CC0 project. ",
         "imageURL":"portfolio_vibers_card",
-        "tags": ["Javascript", "Vue.js", "Vuex", "Ethers.js", "Solidity", "Hardhat", "Tailwind", "MongoDB", "Nginx", "Linux"],
+        "tags": ["Javascript", "Vue.js", "Vuex", "Ethers.js", "NFTs", "Solidity", "Hardhat", "Tailwind", "MongoDB", "Nginx", "Linux"],
         "detail_pdf_array": [],
         "githubURL": "https://github.com/Zalkota"
     },
@@ -25,7 +25,7 @@
         "location":"",
         "description":"Cosmic Caps is a NFT collection of 10k 3D rendered mushrooms created using an algorithm in Blender. This collection is currently live on the Ethereum blockchain.",
         "imageURL":"portfolio_cosmic_card",
-        "tags": ["Javascript", "Vue.js", "Ethers.js", "Solidity", "Hardhat", "Tailwind", "Linux", "Nginx", "MongoDB", "Python", "Blender" ],
+        "tags": ["Javascript", "Vue.js", "Ethers.js", "Solidity", "Hardhat", "NFTs", "Tailwind", "Linux", "Nginx", "MongoDB", "Python", "Blender" ],
         "detail_pdf_array": [],
         "githubURL": "https://github.com/Zalkota"
     },
@@ -35,7 +35,7 @@
         "location":"",
         "description":"Blockforge is a Ethereum based Play-To-Earn metaverse built on Minecraft. The server has integrated NFTs that enable users to earn $FORGE tokens while playing on the server.",
         "imageURL":"portfolio_blockforge_card",
-        "tags": ["Javascript", "Vue.js", "Vuex", "Ethers.js", "Solidity", "Hardhat", "Tailwind", "MongoDB", "Linux", "Java"],
+        "tags": ["Javascript", "Vue.js", "Vuex", "Ethers.js", "Solidity", "Hardhat", "NFTs", "Tailwind", "MongoDB", "Linux", "Java"],
         "detail_pdf_array": [],
         "githubURL": "https://github.com/Zalkota"
     },
@@ -47,13 +47,13 @@
         "imageURL":"portfolio_gegoo_card",
         "tags": ["Django", "Python", "Stripe", "PostgreSQL", "SASS", "Docker", "GeoLocation", "Bootstrap", "AWS", "Linux"],
         "detail_pdf_array": ["Gegoo_Page_1", "Gegoo_Page_2", "Gegoo_Page_3", "Gegoo_Page_4", "Gegoo_Page_5", "Gegoo_Page_6"],
-        "githubURL": "https://github.com/Zalkota/Gegoo-Digital-Coupon-Repository"
+        "githubURL": "https://github.com/Zalkota/Gegoo-Digital-Coupons"
     },
     {
         "id":"5",
         "title":"ERC721 Data Collection Tool",
         "location":"",
-        "description":"Continuously queries the Ethereum blockchain for specific ERC721 contract events pertaining to specific tokens.",
+        "description":"This repository queries the Ethereum blockchain for user defined ERC721 contracts for events pertaining to the specified tokens IDs. The data is added to a Mongo database and can be queried to my frontend.",
         "imageURL":"portfolio_erc721_card",
         "tags": ["Javascript", "Axios", "MongoDB", "Vue.js", "Vuex", "Ethers.js", "Tailwind", "Alchemy", "TypeScript", "Linux"],
         "detail_pdf_array": [],
