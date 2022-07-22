@@ -1,0 +1,62 @@
+[
+    {
+        "id":"0",
+        "title":"CoinFlask",
+        "location":"",
+        "description":"CoinFlask is a rudimentary version of CoinGecko.com that provides cryptocurrency market information of the top 100 coins in real-time and preserves state.",
+        "imageURL":"portfolio_coinflask_card",
+        "tags": ["Javascript", "Vue.js", "Vuex", "CoinGecko API", "Tailwind", "MongoDB", "Nginx", "Cypress", "Linux"],
+        "detail_pdf_array": [],
+        "githubURL": "https://github.com/Zalkota"
+    },
+    {
+        "id":"1",
+        "title":"Vibers NFT Collection",
+        "location":"",
+        "description":"Vibers is a 10k NFT collection that encompasses the ethos of web3 by taking inspiration from a wide range of iconic NFT collections to create an entirely new and original CC0 project. ",
+        "imageURL":"portfolio_vibers_card",
+        "tags": ["Javascript", "Vue.js", "Vuex", "Ethers.js", "Solidity", "Hardhat", "Tailwind", "MongoDB", "Nginx", "Linux"],
+        "detail_pdf_array": [],
+        "githubURL": "https://github.com/Zalkota"
+    },
+    {
+        "id":"2",
+        "title":"Cosmic Caps NFT Collection",
+        "location":"",
+        "description":"Cosmic Caps is a NFT collection of 10k 3D rendered mushrooms created using an algorithm in Blender. This collection is currently live on the Ethereum blockchain.",
+        "imageURL":"portfolio_cosmic_card",
+        "tags": ["Javascript", "Vue.js", "Ethers.js", "Solidity", "Hardhat", "Tailwind", "Linux", "Nginx", "MongoDB", "Python", "Blender" ],
+        "detail_pdf_array": [],
+        "githubURL": "https://github.com/Zalkota"
+    },
+    {
+        "id":"3",
+        "title":"BlockForge NFT P2E Game",
+        "location":"",
+        "description":"Blockforge is a Ethereum based Play-To-Earn metaverse built on Minecraft. The server has integrated NFTs that enable users to earn $FORGE tokens while playing on the server.",
+        "imageURL":"portfolio_blockforge_card",
+        "tags": ["Javascript", "Vue.js", "Vuex", "Ethers.js", "Solidity", "Hardhat", "Tailwind", "MongoDB", "Linux", "Java"],
+        "detail_pdf_array": [],
+        "githubURL": "https://github.com/Zalkota"
+    },
+    {
+        "id":"4",
+        "title":"Gegoo, Inc.",
+        "location":"Dearborn, MI",
+        "description":"Gegoo was a brand awareness and promotional web application built by my company, Mod Technologies LLC. Gegoo was a startup located in Dearborn, MI in 2020.",
+        "imageURL":"portfolio_gegoo_card",
+        "tags": ["Django", "Python", "Stripe", "PostgreSQL", "SASS", "Docker", "GeoLocation", "Bootstrap", "AWS", "Linux"],
+        "detail_pdf_array": ["Gegoo_Page_1", "Gegoo_Page_2", "Gegoo_Page_3", "Gegoo_Page_4", "Gegoo_Page_5", "Gegoo_Page_6"],
+        "githubURL": "https://github.com/Zalkota/Gegoo-Digital-Coupon-Repository"
+    },
+    {
+        "id":"5",
+        "title":"ERC721 Data Collection Tool",
+        "location":"",
+        "description":"Continuously queries the Ethereum blockchain for specific ERC721 contract events pertaining to specific tokens.",
+        "imageURL":"portfolio_erc721_card",
+        "tags": ["Javascript", "Axios", "MongoDB", "Vue.js", "Vuex", "Ethers.js", "Tailwind", "Alchemy RPC", "Linux"],
+        "detail_pdf_array": [],
+        "githubURL": "https://github.com/Zalkota"
+    }
+]

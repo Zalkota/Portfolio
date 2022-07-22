@@ -3,6 +3,7 @@ import VueTailwind from 'vue-tailwind'
 import App from './App.vue'
 import router from './router'
 import store from './store'
+import pdf from 'vue-pdf'
 
 import './css/tailwind.css'
 import './css/main.css'
@@ -60,6 +61,8 @@ const settings = {
   }
 }
 Vue.use(VueTailwind, settings)
+
+Vue.component('pdf', pdf)
 
 const app = new Vue({
   router,
