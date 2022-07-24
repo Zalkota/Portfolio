@@ -8,7 +8,7 @@
                           <div class="flex-shrink-0 items-center">
                                <router-link class="no-underline"  to="/">
                                     <img class="block h-12 w-auto hide" src="@/assets/images/navbar_logo_2.svg" alt="CoinFlask Logo" />
-                                    <img class="block h-12 w-auto unhide" src="@/assets/images/navbar_logo_sm.jpg" alt="CoinFlask Logo" />
+                                    <img class="block h-12 w-auto unhide" src="@/assets/images/navbar_logo_sm.png" alt="CoinFlask Logo" />
                                </router-link>
                           </div>
                         </div>

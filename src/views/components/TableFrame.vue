@@ -1,6 +1,23 @@
 <template>
         <div class="container mx-auto mt-2 lg:mt-16 mb-12 lg:mb-32  px-4 sm:px-6 lg:px-10">
 
+
+            <t-modal
+              header="Title of the modal"
+            >
+              Content of the modal.
+              <template v-slot:footer>
+                <div class="flex justify-between">
+                  <t-button type="button">
+                    Cancel
+                  </t-button>
+                  <t-button type="button">
+                    Ok
+                  </t-button>
+                </div>
+              </template>
+            </t-modal>
+
         <div class="flex flex-wrap">
             <div class="w-full">
                 <ul v-show="this.$route.name == 'home'" class="flex mb-0 list-none flex-wrap pt-3 flex-row border-b border-gray-300">
@@ -56,6 +73,7 @@
                                  :imageURL="card.imageURL"
                                  :tags="card.tags"
                                  v-bind:detail_view_card="card.detail_pdf_array"
+                                 :websiteURL="card.websiteURL"
                                  :githubURL="card.githubURL"
                                  :privateRepo="card.privateRepo"
                                  />

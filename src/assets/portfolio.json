@@ -7,6 +7,7 @@
         "imageURL":"portfolio_coinflask_card",
         "tags": ["Javascript", "Vue.js", "Vuex", "CoinGecko API", "Tailwind", "MongoDB", "Nginx", "Cypress", "Linux"],
         "detail_pdf_array": [],
+        "websiteURL": "https://coinflask.dominicmazzola.com",
         "githubURL": "https://github.com/Zalkota/CoinFlask",
         "privateRepo": false
     },
@@ -18,7 +19,8 @@
         "imageURL":"portfolio_vibers_card",
         "tags": ["Javascript", "Vue.js", "Vuex", "Ethers.js", "NFTs", "Solidity", "Hardhat", "Tailwind", "MongoDB", "Nginx", "Linux"],
         "detail_pdf_array": [],
-        "githubURL": "https://github.com/Zalkota",
+        "websiteURL": "https://vibers.io",
+        "githubURL": "",
         "privateRepo": true
     },
     {
@@ -29,7 +31,8 @@
         "imageURL":"portfolio_cosmic_card",
         "tags": ["Javascript", "Vue.js", "Ethers.js", "Solidity", "Hardhat", "NFTs", "Tailwind", "Linux", "Nginx", "MongoDB", "Python", "Blender" ],
         "detail_pdf_array": [],
-        "githubURL": "https://github.com/Zalkota",
+        "websiteURL": "https://cosmiccapsnft.com",
+        "githubURL": "",
         "privateRepo": true
     },
     {
@@ -40,7 +43,8 @@
         "imageURL":"portfolio_blockforge_card",
         "tags": ["Javascript", "Vue.js", "Vuex", "Ethers.js", "Solidity", "Hardhat", "NFTs", "Tailwind", "MongoDB", "Linux", "Java"],
         "detail_pdf_array": [],
-        "githubURL": "https://github.com/Zalkota",
+        "websiteURL": "",
+        "githubURL": "",
         "privateRepo": true
     },
     {
@@ -51,18 +55,32 @@
         "imageURL":"portfolio_gegoo_card",
         "tags": ["Django", "Python", "Stripe", "PostgreSQL", "SASS", "Docker", "GeoLocation", "Bootstrap", "AWS", "Linux"],
         "detail_pdf_array": ["Gegoo_Page_1", "Gegoo_Page_2", "Gegoo_Page_3", "Gegoo_Page_4", "Gegoo_Page_5", "Gegoo_Page_6"],
+        "websiteURL": "",
         "githubURL": "https://github.com/Zalkota/Gegoo-Digital-Coupons",
         "privateRepo": false
     },
     {
         "id":"5",
+        "title":"ATPlaque",
+        "location":"Livonia, MI",
+        "description":"ATPlaque is a U.S. Injection Molding and Rapid Manufacturing Company in Livonia, MI. I developed a six page customer facing website for ATPlaque in 2019.",
+        "imageURL":"portfolio_atp_card",
+        "tags": ["Django", "Python", "HTML5", "CSS", "SASS", "Bootstrap", "Linux"],
+        "detail_pdf_array": [],
+        "websiteURL": "https://atplaque.com",
+        "githubURL": "",
+        "privateRepo": false
+    },
+    {
+        "id":"6",
         "title":"ERC721 Data Collection Tool",
         "location":"",
-        "description":"This repository queries the Ethereum blockchain for user defined ERC721 contracts for events pertaining to the specified tokens IDs. The data is added to a Mongo database and can be queried to my frontend.",
+        "description":"This repository queries the Ethereum blockchain for user defined ERC721 contracts events of specific tokens IDs. The data is added to a Mongo database and can be queried to my frontend.",
         "imageURL":"portfolio_erc721_card",
         "tags": ["Javascript", "Axios", "MongoDB", "Vue.js", "Vuex", "Ethers.js", "Tailwind", "Alchemy", "TypeScript", "Linux"],
         "detail_pdf_array": [],
-        "githubURL": "https://github.com/Zalkota",
+        "websiteURL": "",
+        "githubURL": "",
         "privateRepo": false
     }
 ]
