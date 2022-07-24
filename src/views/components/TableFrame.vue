@@ -75,6 +75,7 @@
                                  v-bind:detail_view_card="card.detail_pdf_array"
                                  :websiteURL="card.websiteURL"
                                  :githubURL="card.githubURL"
+                                 :etherscanURL="card.etherscanURL"
                                  :privateRepo="card.privateRepo"
                                  />
                              </template>

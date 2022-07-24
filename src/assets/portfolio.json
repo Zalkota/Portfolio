@@ -9,7 +9,7 @@
         "detail_pdf_array": [],
         "websiteURL": "https://coinflask.dominicmazzola.com",
         "githubURL": "https://github.com/Zalkota/CoinFlask",
-        "privateRepo": false
+        "etherscanURL": ""
     },
     {
         "id":"1",
@@ -21,7 +21,7 @@
         "detail_pdf_array": [],
         "websiteURL": "https://vibers.io",
         "githubURL": "",
-        "privateRepo": true
+        "etherscanURL": "https://rinkeby.etherscan.io/address/0x1A275dCA47fd9A88D6221210B02bD1303080Fed8"
     },
     {
         "id":"2",
@@ -33,7 +33,7 @@
         "detail_pdf_array": [],
         "websiteURL": "https://cosmiccapsnft.com",
         "githubURL": "",
-        "privateRepo": true
+        "etherscanURL": "https://etherscan.io/token/0xf3c9b7a97eba579f5c234f79108331f5513c9741"
     },
     {
         "id":"3",
@@ -45,7 +45,7 @@
         "detail_pdf_array": [],
         "websiteURL": "",
         "githubURL": "",
-        "privateRepo": true
+        "etherscanURL": ""
     },
     {
         "id":"4",
@@ -57,7 +57,7 @@
         "detail_pdf_array": ["Gegoo_Page_1", "Gegoo_Page_2", "Gegoo_Page_3", "Gegoo_Page_4", "Gegoo_Page_5", "Gegoo_Page_6"],
         "websiteURL": "",
         "githubURL": "https://github.com/Zalkota/Gegoo-Digital-Coupons",
-        "privateRepo": false
+        "etherscanURL": ""
     },
     {
         "id":"5",
@@ -69,7 +69,7 @@
         "detail_pdf_array": [],
         "websiteURL": "https://atplaque.com",
         "githubURL": "",
-        "privateRepo": false
+        "etherscanURL": ""
     },
     {
         "id":"6",
@@ -81,6 +81,6 @@
         "detail_pdf_array": [],
         "websiteURL": "",
         "githubURL": "",
-        "privateRepo": false
+        "etherscanURL": ""
     }
 ]
