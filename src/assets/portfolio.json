@@ -65,7 +65,7 @@
         "location":"Livonia, MI",
         "description":"ATPlaque is a U.S. Injection Molding and Rapid Manufacturing Company in Livonia, MI. I developed a six page customer facing website for ATPlaque in 2019.",
         "imageURL":"portfolio_atp_card",
-        "tags": ["Django", "Python", "HTML5", "CSS", "SASS", "Bootstrap", "Linux"],
+        "tags": ["Django", "Python", "HTML5", "CSS", "SASS", "Nginx", "Gunicorn", "PostgreSQL", "Wagtail", "Bootstrap", "Linux"],
         "detail_pdf_array": [],
         "websiteURL": "https://atplaque.com",
         "githubURL": "",
