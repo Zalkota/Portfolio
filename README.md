@@ -8,4 +8,3 @@ npm run dev
 ```
 npx cypress open
 ```
-- test file located at cypress/e2e/CoinFlaskAllTest
