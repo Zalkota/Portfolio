@@ -21,18 +21,18 @@
         <div class="flex flex-wrap">
             <div class="w-full">
                 <ul v-show="this.$route.name == 'home'" class="flex mb-0 list-none flex-wrap pt-3 flex-row border-b border-gray-300">
-                <li class="-mb-px mr-2 last:mr-0 flex-0 text-center">
-                  <a class="text-sm text-gray-600 font-bold px-6 py-3 pl-2 block leading-normal no-underline cursor-pointer" v-on:click="toggleTabs(0)" v-bind:class="{'border-none': openTab !== 0, 'border-b-2 border-blue-500 text-blue-500': openTab === 0}">
+                <li class=" mr-2 last:mr-0 flex-1 md:flex-initial text-center">
+                  <a class="text-sm text-gray-600 font-bold px-5 py-3 block leading-normal no-underline cursor-pointer" v-on:click="toggleTabs(0)" v-bind:class="{'border-none': openTab !== 0, 'border-b-2 border-blue-500 bg-gray-100 text-blue-500': openTab === 0}">
                     Welcome
                   </a>
                 </li>
-                <li class="-mb-px mr-2 last:mr-0 flex-0 text-center">
-                  <a class="text-sm text-gray-600 font-bold px-5 py-3 block leading-normal no-underline cursor-pointer" v-on:click="toggleTabs(2)" v-bind:class="{'border-none': openTab !== 2, 'border-b-2 border-blue-500 text-blue-500': openTab === 2}">
+                <li class=" mr-2 last:mr-0 flex-1 md:flex-initial text-center">
+                  <a class="text-sm text-gray-600 font-bold px-5 py-3 block leading-normal no-underline cursor-pointer" v-on:click="toggleTabs(2)" v-bind:class="{'border-none': openTab !== 2, 'border-b-2 border-blue-500 bg-gray-100 text-blue-500': openTab === 2}">
                     Résumé
                   </a>
                 </li>
-                <li class="-mb-px mr-2 last:mr-0 flex-0 text-center">
-                  <a class="text-sm text-gray-600 font-bold px-6 py-3 pl-2 block leading-normal no-underline cursor-pointer" v-on:click="toggleTabs(1)" v-bind:class="{'border-none': openTab !== 1, 'border-b-2 border-blue-500 text-blue-500': openTab === 1}">
+                <li class=" mr-2 last:mr-0 flex-1 md:flex-initial text-center">
+                  <a class="text-sm text-gray-600 font-bold px-5 py-3 block leading-normal no-underline cursor-pointer" v-on:click="toggleTabs(1)" v-bind:class="{'border-none': openTab !== 1, 'border-b-2 border-blue-500 bg-gray-100 text-blue-500': openTab === 1}">
                     Portfolio
                   </a>
                 </li>
@@ -58,8 +58,8 @@
 
                         <div class="flex  mb-2 mx-auto py-4 ">
                             <div class="flex-1">
-                                 <h1 class="text-gray-900 font-bold text-xl lg:text-2xl mb-1" style="font-family: Russo One;">My Portfolio</h1>
-                                 <h2 class="text-gray-600 font-thin text-sm ">View the latest websites, web applications, and NFTs designed and built by Dominic Mazzola.</h2>
+                                 <h1 class="text-gray-900 font-bold text-xl lg:text-2xl mb-1" style="font-family: Russo One;">Personal Projects Developed by Dominic</h1>
+                                 <h2 class="text-gray-600 font-thin text-sm">Feel free to reach out to me if you have any questions.</h2>
                             </div>
                         </div>
 

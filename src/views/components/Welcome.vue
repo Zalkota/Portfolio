@@ -24,7 +24,7 @@
                     </div>
                 </div>
                 <div class="text-center md:text-left">
-                    <h2 class="text-gray-700 font-thin text-sm ">Forward-looking Engineer with five years of experience creating full stack software application with a burning passion for decentralized technologies (Web3, NFTs, metaverse, etc.). I'm very self-driven, work well in teams, communicate effectively, persistent at solving problems, and I believe everyone has a passion whether out not they've found it yet.</h2>
+                    <h2 class="text-gray-700 font-thin text-sm ">Disciplined Engineer with five years of experience creating full stack software applications in my freetime. I have a passion for building web applications related to decentralized technologies, such as Bitcoin, Ethereum, Web3, and NFTs. I'm very self-driven in and outside of work, work well in teams, communicate effectively amongst my peers, and exhibit strong analytical problem-solving abilities.</h2>
                     <h3 class="font-bold text-xl mb-0 mt-6">Favorite Quote</h3>
                 </div>
                 <div class="p-4 rounded-lg my-3 bg-blue-100 text-blue-700">

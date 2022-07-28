@@ -62,7 +62,7 @@ export default {
         },
 
         truncateDescription(payload) {
-            let maxLength = 150
+            let maxLength = 165
             if(payload.length >= maxLength) {
                 let trimmedString = payload.substring(0, maxLength) ;
                 trimmedString = trimmedString.substr(0, Math.min(trimmedString.length, trimmedString.lastIndexOf(" ")))
