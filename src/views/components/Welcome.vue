@@ -3,13 +3,15 @@
     <div class="">
         <div class="flex flex-col md:flex-row border border-gray-300 mt-6 mx-auto p-6 rounded-md shadow-md bg-white mb-64">
             <div class="flex-auto">
-                <div class="px-6">
-                    <img class="block w-48 mt-6 mx-auto" src="@/assets/images/dominic_image.png" alt="Profile Image" />
-                </div>
-                <div class="px-6 py-2 sm:mt-8">
-                    <button class="button w-full text-center bg-white border-2 border-blue-400 hover:bg-blue-400 hover:text-white hover:shadow-md text-blue-400 font-bold py-2 px-6 md:mt-0 mt-4 rounded text-white no-underline" href="https://t.me/Dommazzola" target="_blank">
-                        Message
-                    </button>
+                <div class="flex flex-col">
+                    <div class="flex-1 px-6">
+                        <img class="block md:w-32 w-48 mt-6 mx-auto" src="@/assets/images/dominic_image.png" alt="Profile Image" />
+                    </div>
+                    <div class="flex-1 px-6 py-4 my-4 md:py-3 sm:mt-8 mx-auto">
+                        <a class=" text-center bg-white border-2 border-blue-400 hover:bg-blue-400 hover:text-white hover:shadow-md text-blue-400 font-bold py-3 px-12 md:mt-0 mt-4 rounded no-underline" href="https://t.me/Dommazzola" target="_blank">
+                            Message
+                        </a>
+                    </div>
                 </div>
             </div>
             <div class="flex-auto mb-4 px-6">
