@@ -38,7 +38,7 @@ export default {
   props: [],
   data() {
     return {
-         URL: "https://dominics-portfolio-media.s3.amazonaws.com/Resume_Dominic_Mazzola_0727.pdf"
+         URL: "https://dominics-portfolio-media.s3.amazonaws.com/Resume_Dominic_Mazzola_0728-2.pdf"
     }
   },
   methods: {
