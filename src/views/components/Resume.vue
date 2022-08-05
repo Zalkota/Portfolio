@@ -21,11 +21,10 @@
             </a>
         </div>
 
-        <div class=" text-left m-6 border-gray-300 hover:shadow-md border ">
+        <div class="mx-auto text-left w-full m-6 border-gray-300 hover:shadow-md border ">
             <pdf src="resume.pdf"></pdf>
         </div>
-        
-        <div  class=" text-left m-6 border-gray-300 hover:shadow-md border">
+        <div  class="mx-auto text-left w-full m-6 border-gray-300 hover:shadow-md border">
             <pdf src="resume_2.pdf"></pdf>
         </div>
     </div>
