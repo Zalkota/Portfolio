@@ -62,7 +62,7 @@
                             <div v-bind:class="{'hidden': openTab !== 1, 'block': openTab === 1}">
                                 <div class="flex  mb-2 mx-auto py-4 ">
                                     <div class="flex-1">
-                                         <h1 class="text-gray-900 font-bold text-xl lg:text-2xl mb-1" style="font-family: Russo One;">Personal Projects Developed by Dominic</h1>
+                                         <h1 class="text-gray-900 font-bold text-xl lg:text-2xl mb-1" >Projects Developed by Dominic</h1>
                                          <h2 class="text-gray-600 font-thin text-sm">Feel free to reach out to me if you have any questions.</h2>
                                     </div>
                                 </div>

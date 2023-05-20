@@ -17,7 +17,7 @@
             <div class="flex-auto mb-4 px-6">
                 <div class="md:flex">
                     <div class="md:flex-0 text-center ">
-                        <h1 class="text-gray-900 font-bold text-xl lg:text-2xl mb-1" style="font-family: Russo One;">
+                        <h1 class="text-gray-900 font-bold text-xl lg:text-2xl mb-1" >
                             Dominic Mazzola
                         </h1>
                     </div>
@@ -26,10 +26,13 @@
                     </div>
                 </div>
                 <div class="text-center md:text-left">
-                    <h2 class="text-gray-700 font-thin text-sm ">Disciplined Engineer with five years of experience creating full stack software applications in my freetime. I have a passion for building web applications related to decentralized technologies, such as Bitcoin, Ethereum, Web3, and NFTs. I'm very self-driven in and outside of work, work well in teams, communicate effectively amongst my peers, and exhibit strong analytical problem-solving abilities.</h2>
-                    <h3 class="font-bold text-xl mb-0 mt-6">Favorite Quote</h3>
+                    <p class="text-gray-700 font-thin text-sm ">    As the founder of Mod Technologies LLC, I utilized my proficiency in Django Framework, Python, HTML, SASS, Postgres, Nginx, Linux, and later JavaScript, React, and NodeJS, to create full-stack web applications for businesses in Metro Detroit. </p>
+                    <p class="text-gray-700 font-thin text-sm mt-4 ">My versatile portfolio includes developing a customer-centric website and employee portal for King Of Budz, building a cryptocurrency tracking site replicating CoinMarketCap.com, and crafting an Ethereum-based NFT platform. Concurrently, I enhanced engineering sales at Electro-Matic Products, led the creation of custom control systems, and implemented software solutions for major automotive industry clients, leveraging my adeptness in Siemens control systems, CNC controller software, and Python scripting to increase production rates significantly.</p>
+                    <p class="text-gray-700 font-thin text-sm mt-4 ">    My robust analytical acumen and problem-solving abilities, paired with an outgoing demeanor and adept negotiation skills, enable me to take on challenging roles and projects effectively. </p>
+                    <p class="text-gray-700 font-thin text-sm mt-4 ">Known for my drive and persistence, I have a demonstrated record of overcoming setbacks and contributing meaningfully to team efforts. I excel in communication, project management, and delegation, traits that have proven instrumental in my career. Moreover, my passion for assisting others continually propels me towards creating impactful solutions and fostering an environment of collaborative success. Integrating these strengths, I have consistently delivered robust software solutions, effectively managed projects, and cultivated positive relationships, both within and beyond my teams.</p>
+                    <h3 class="font-bold text-xl mb-0 mt-6">Memorable Quote</h3>
                 </div>
-                <div class="p-4 rounded-lg my-3 bg-blue-100 text-blue-700">
+                <div class="p-4 rounded-lg my-3 bg-blue-100 text-sm text-blue-700">
                     <p class=""><span class="italic">"Don't judge each day by the harvest you reap but by the seeds that you plant."</span> -Robert Louis Stevenson</p>
                 </div>
             </div>

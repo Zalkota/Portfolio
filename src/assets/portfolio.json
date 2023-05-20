@@ -1,27 +1,29 @@
 [
+
+    
     {
         "id":"0",
         "title":"CoinFlask",
         "location":"New Hudson, MI",
-        "description":"CoinFlask is a rudimentary version of CoinGecko.com that provides cryptocurrency market information of the top 100 coins in real-time and preserves state.",
-        "imageURL":"portfolio_coinflask_card",
-        "tags": ["Javascript", "Vue.js", "Vuex", "CoinGecko API", "Tailwind", "MongoDB", "Nginx", "Cypress", "Linux"],
+        "description":"I conceptualized and developed a comprehensive website and employee portal for King Of Budz in Monroe, Michigan. Includes a employee portal that fetches sales data.",
+        "imageURL":"portfolio_kob",
+        "tags": ["JavaScript", "React", "NodeJS", "Dutchie POS API", "Tailwind", "MongoDB", "Nginx", "Cypress", "Linux"],
         "detail_pdf_array": [],
-        "websiteURL": "https://coinflask.dominicmazzola.com",
-        "githubURL": "https://github.com/Zalkota/CoinFlask",
+        "websiteURL": "https://kobcannabis.com",
+        "githubURL": "",
         "etherscanURL": ""
     },
     {
         "id":"1",
-        "title":"Vibers NFT Collection",
-        "location":"",
-        "description":"Vibers is a 10k NFT collection that encompasses the ethos of web3 by taking inspiration from a wide range of iconic NFT collections to create an entirely new and original CC0 project. ",
-        "imageURL":"portfolio_vibers_card",
-        "tags": ["Javascript", "Vue.js", "Vuex", "Ethers.js", "NFTs", "Solidity", "Hardhat", "Tailwind", "MongoDB", "Nginx", "Linux"],
+        "title":"CoinFlask",
+        "location":"New Hudson, MI",
+        "description":"CoinFlask is a rudimentary version of CoinGecko.com that provides cryptocurrency market information of the top 100 coins in real-time and preserves state.",
+        "imageURL":"portfolio_coinflask_card",
+        "tags": ["JavaScript", "Vue.js", "Vuex", "CoinGecko API", "Tailwind", "MongoDB", "Nginx", "Cypress", "Linux"],
         "detail_pdf_array": [],
-        "websiteURL": "https://vibers.io",
-        "githubURL": "",
-        "etherscanURL": "https://rinkeby.etherscan.io/address/0x1A275dCA47fd9A88D6221210B02bD1303080Fed8"
+        "websiteURL": "https://coinflask.dominicmazzola.com",
+        "githubURL": "https://github.com/Zalkota/CoinFlask",
+        "etherscanURL": ""
     },
     {
         "id":"2",
@@ -29,7 +31,7 @@
         "location":"",
         "description":"Cosmic Caps is a NFT collection of 10k 3D rendered mushrooms created using an algorithm in Blender. This collection is currently live on the Ethereum blockchain.",
         "imageURL":"portfolio_cosmic_card",
-        "tags": ["Javascript", "Vue.js", "Ethers.js", "Solidity", "Hardhat", "NFTs", "Tailwind", "Linux", "Nginx", "MongoDB", "Python", "Blender" ],
+        "tags": ["JavaScript", "Vue.js", "Ethers.js", "Solidity", "Hardhat", "NFTs", "Tailwind", "Linux", "Nginx", "MongoDB", "Python", "Blender" ],
         "detail_pdf_array": [],
         "websiteURL": "https://cosmiccapsnft.com",
         "githubURL": "",
@@ -41,7 +43,7 @@
         "location":"",
         "description":"Blockforge is a Ethereum based Play-To-Earn metaverse built on Minecraft. The server has integrated NFTs that enable users to earn $FORGE tokens while playing on the server.",
         "imageURL":"portfolio_blockforge_card",
-        "tags": ["Javascript", "Vue.js", "Vuex", "Ethers.js", "Solidity", "Hardhat", "NFTs", "Tailwind", "MongoDB", "Linux", "Java"],
+        "tags": ["JavaScript", "Vue.js", "Vuex", "Ethers.js", "Solidity", "Hardhat", "NFTs", "Tailwind", "MongoDB", "Linux", "Java"],
         "detail_pdf_array": [],
         "websiteURL": "https://blockforgenft.xyz",
         "githubURL": "",
@@ -77,9 +79,21 @@
         "location":"",
         "description":"This repository queries the Ethereum blockchain for user defined ERC721 contracts events of specific tokens IDs. The data is added to a Mongo database and can be queried to my frontend.",
         "imageURL":"portfolio_erc721_card",
-        "tags": ["Javascript", "Axios", "MongoDB", "Vue.js", "Vuex", "Ethers.js", "Tailwind", "Alchemy", "TypeScript", "Linux"],
+        "tags": ["JavaScript", "Axios", "MongoDB", "Vue.js", "Vuex", "Ethers.js", "Tailwind", "Alchemy", "TypeScript", "Linux"],
         "detail_pdf_array": [],
         "websiteURL": "",
+        "githubURL": "",
+        "etherscanURL": ""
+    },
+    {
+        "id":"7",
+        "title":"Web3Modal-Vue Implementation Tutorial",
+        "location":"",
+        "description":"I created a tutorial on how to implement Web3Modal and Vuex into a VueJS application. Web3Modal is a library that supports multiple web3 wallet providers.",
+        "imageURL":"portfolio_tutorials_card",
+        "tags": ["JavaScript", "Vue.js", "Vuex", "Web3Modal-Vue", "Ethers.js", "Tailwind", "VuePress", "Nginx", "Linux"],
+        "detail_pdf_array": [],
+        "websiteURL": "https://tutorials.dominicmazzola.com/web3modal-vue-tutorial/Contents.html",
         "githubURL": "",
         "etherscanURL": ""
     }
